@@ -1,0 +1,11 @@
+Day 0 of learning Web Dev(1-9-25)
+* Watched first lecture of coder army course.
+* It was about intro to web dev and how internet works?
+
+
+Day 1 of Learning Web Dev(2-9-25)
+* Watched 2nd Lecture.
+* It was an introduction to html and some basic tags like heading, hyperlink, image, hr, list etc.
+* Made a mini html project using these projects
+
+
